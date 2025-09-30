@@ -1,0 +1,14 @@
+[INFO] User logged in
+[ERROR] Connection timeout
+[DEBUG] Starting calculation
+[WARNING] Disk space low
+[INFO] Database connection established
+[ERROR] File not found
+[DEBUG] Processing request ID 12345
+[WARNING] Memory usage high
+[INFO] Backup completed successfully
+[ERROR] Authentication failed
+[DEBUG] Cache cleared
+[WARNING] High CPU usage
+[INFO] User session started
+[ERROR] New critical error detected
